@@ -9,7 +9,9 @@ Here are some commercial projects I have worked on, including those that are sti
 
 ## "MyBox" (codename) [pre-launch stage] (2022-currently)
 
-A large-scale **free-to-play match-3** game with complex match-3 mechanics and an additional meta-gameplay layer. The project is still **under development** and has not yet been released to stores. In MyBox, I'm one of two **lead programmers**. I'm like a walking bible of the project: there is no place in the code where I haven't left my mark. I'm responsible for project architecture, gameplay mechanics, UI implementation, the in-game shop, internal game core systems, an internal level editor for creating match-3 levels, localization, backend integration, and more.
+A large-scale **free-to-play match-3** game with complex match-3 mechanics and an additional meta-gameplay layer. The project is still **under development** and has not yet been released to stores. In MyBox, I'm one of two **lead programmers**. 
+
+I'm like a walking bible of the project: there is no place in the code where I haven't left my mark. I'm responsible for project architecture, gameplay mechanics, UI implementation, the in-game shop, internal game core systems, an internal level editor for creating match-3 levels, localization, backend integration, and more.
 
 ## "Kraina Wilka" for Orizon Group (2021)
 
