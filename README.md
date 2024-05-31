@@ -47,8 +47,6 @@ A start-up project of an educational mobile game focused on learning English. Th
 
 Screenshots:
 
-<img src="https://github.com/Muciojad/portfolio/blob/main/MiamiEnglish_1.png" width="365px" height="667px">
-
 <img src="https://github.com/Muciojad/portfolio/blob/main/MiamiEnglish_2.png" width="365px" height="667px">
 
 <img src="https://github.com/Muciojad/portfolio/blob/main/MiamiEnglish_3.png" width="365px" height="667px">
