@@ -33,9 +33,25 @@ Steam Link: [Deadliest Catch: The Game on Steam](https://store.steampowered.com/
 
 A cutting-edge storytelling mobile app with AR elements. This start-up project featured interactive stories for kids, allowing parents to record voiceovers and character mimics using the phone camera and Augmented Reality. Despite its huge potential and advanced development stage, the project was shut down in 2021 due to a change in the company's start-up scope. As a Unity Developer on this project, my responsibilities included co-implementing app flow architecture, UI implementation, story recording functionalities, story playing functionalities, implementing reusable interactive story elements, and bug fixing.
 
+Screenshots:
+
+<img src="https://github.com/Muciojad/portfolio/blob/main/SeemeStories_1.png" width="365px" height="667px">
+
+<img src="https://github.com/Muciojad/portfolio/blob/main/SeemeStories_2.png" width="365px" height="667px">
+
+<img src="https://github.com/Muciojad/portfolio/blob/main/SeemeStories_3.png" width="365px" height="667px">
+
 ## "Miami English" for Educational Entertainment One
 
 A start-up project of an educational mobile game focused on learning English. The game featured several language-related educational mini-games, a flashcards mode, and a simple story mode. The project was co-funded by a government program and was suspended. As a Unity Developer on this project, I was responsible for app flow architecture, UI implementation, mini-games and flashcards module implementation, backend integration, and bug fixing.
+
+Screenshots:
+
+<img src="https://github.com/Muciojad/portfolio/blob/main/MiamiEnglish_1.png" width="365px" height="667px">
+
+<img src="https://github.com/Muciojad/portfolio/blob/main/MiamiEnglish_2.png" width="365px" height="667px">
+
+<img src="https://github.com/Muciojad/portfolio/blob/main/MiamiEnglish_3.png" width="365px" height="667px">
 
 # Non-Commercial Experience
 
@@ -61,7 +77,9 @@ Inspired by "SeeMe Stories," I've created a prototype of another storytelling ap
 
 Screenshots:
 
-Repo: [GitHub](https://github.com/Poseidon-tools/ar-bedtime-story)
+![alt text](JoyStories_1.png)
+![alt text](JoyStories_2.png)
+![alt text](JoyStories_3.png)
 
 ## "Comet Hunter"
 
