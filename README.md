@@ -52,13 +52,6 @@ A start-up project of an educational mobile game focused on learning English. Th
 As a Unity Developer on this project, I was responsible for **app flow architecture, UI implementation, mini-games and flashcards module implementation, backend integration**, and bug fixing.
 
 The project was co-funded by a government program and was suspended due company financial issues. 
-
-Screenshots:
-
-<img src="https://github.com/Muciojad/portfolio/blob/main/MiamiEnglish_2.png" width="365px" height="667px">
-
-<img src="https://github.com/Muciojad/portfolio/blob/main/MiamiEnglish_3.png" width="365px" height="667px">
-
 # Non-Commercial Experience
 
 Besides commercial projects, I've spent time developing private projects (mostly prototypes and MVPs) to gain more experience in various development areas that Unity offers.
