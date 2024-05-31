@@ -13,13 +13,13 @@ A large-scale **free-to-play match-3** game with complex match-3 mechanics and a
 
 ## "Kraina Wilka" for Orizon Group (2021)
 
-An interactive AR app containing several AR mini-games. This app is used as an interactive guide for tours in the area of Lake Solina in Poland. In this project, I was responsible for the app architecture, AR integration, UI implementation, AR mini-games implementation, and bug fixing.
+An interactive **AR app** containing several AR mini-games. This app is used as an interactive guide for tours in the area of Lake Solina in Poland. In this project, I was responsible for the **app architecture, AR integration, UI implementation, AR mini-games** implementation, and bug fixing.
 
 Store link: [Kraina Wilka on Google Play](https://play.google.com/store/apps/details?id=com.OrizonStudio.KrainaWilka&hl=en_US)
 
 ## "Turystyczny Lublin" for Orizon Group (2021-2022)
 
-An interactive AR app containing several AR realistic models of historic city monuments. This app is used as an interactive guide for tours in the city of Lublin in Poland. In this project, I was responsible for the app architecture, UI implementation, code review, and technical consulting.
+An interactive **AR app** containing several AR realistic models of historic city monuments. This app is used as an interactive guide for tours in the city of Lublin in Poland. In this project, I was responsible for the **app architecture, UI implementation, code reviews, and technical consulting**.
 
 Store link: [Turystyczny Lublin on Google Play](https://play.google.com/store/apps/details?id=com.OrizonGroup.TurystycznyLublin&hl=pl&gl=US)
 
@@ -31,9 +31,9 @@ Steam Link: [Deadliest Catch: The Game on Steam](https://store.steampowered.com/
 
 ## "SeeMe Stories" for charactr (2020-2021)
 
-A cutting-edge storytelling mobile app with AR elements. This start-up project featured interactive stories for kids, allowing parents to record voiceovers and character mimics using the phone camera and Augmented Reality. 
+A cutting-edge storytelling mobile app with AR elements. This start-up project featured **interactive stories for kids, allowing parents to record voiceovers and character mimics** using the phone camera and Augmented Reality. 
 
-As a Unity Developer on this project, my responsibilities included co-implementing app flow architecture, UI implementation, story recording functionalities, story playing functionalities, implementing reusable interactive story elements, and bug fixing.
+As a Unity Developer on this project, my responsibilities included **co-implementing app flow architecture, UI implementation, story recording functionalities, story playing functionalities, implementing reusable interactive story elements**, and bug fixing.
 
 Despite its huge potential and advanced development stage, the project was shut down in 2021 due to a change in the company's start-up scope. 
 
@@ -49,7 +49,7 @@ Screenshots:
 
 A start-up project of an educational mobile game focused on learning English. The game featured several language-related educational mini-games, a flashcards mode, and a simple story mode. 
 
-As a Unity Developer on this project, I was responsible for app flow architecture, UI implementation, mini-games and flashcards module implementation, backend integration, and bug fixing.
+As a Unity Developer on this project, I was responsible for **app flow architecture, UI implementation, mini-games and flashcards module implementation, backend integration**, and bug fixing.
 
 The project was co-funded by a government program and was suspended due company financial issues. 
 
@@ -65,7 +65,9 @@ Besides commercial projects, I've spent time developing private projects (mostly
 
 ## "Poseidon Framework" and "Poseidon Inseminator"
 
-A codebase that lets me start my projects quickly. The framework is equipped with fundamental elements like a State Machine implementation, popup system, message dispatcher, scene management system, utilities, and more. The framework is actively used in both commercial projects I've been part of and my private projects. "Poseidon Inseminator" is an add-on to the framework base. It's a custom dependency injection system, written entirely by me. This system is based on C# reflection and reflection baking techniques. I'm the co-developer of the framework and the developer of the "Inseminator" add-on.
+A codebase that lets me **start my projects quickly**. The framework is equipped with **fundamental elements like a State Machine implementation, popup system, message dispatcher, scene management system, utilities**, and more. The framework is actively used in both commercial projects I've been part of and my private projects. 
+
+"Poseidon Inseminator" is an add-on to the framework base. It's a **custom dependency injection system**, written entirely by me. This system is based on C# reflection and reflection baking techniques. I'm the co-developer of the framework and the developer of the "Inseminator" add-on.
 
 Poseidon Framework: [Repository](https://github.com/Poseidon-tools/PoseidonFramework)
 
@@ -79,7 +81,11 @@ Video: [YouTube](https://youtu.be/3sWEYHdjPK0)
 
 ## "Joy Stories" storytelling app prototype with AI usage
 
-Inspired by "SeeMe Stories," I've created a prototype of another storytelling app with interactive stories for kids. The core difference is allowing parents to record their voice once and then clone it using Eleven Labs for further automatic voiceover generation. The app is connected to a simple backend created using Firebase and Google Cloud Functions. Every shared story content (scenes, graphics, etc.) is packed into an asset bundle and stored on the backend. The app has functionalities for recording template voices, generating stories, and playing stories. The app flow is split into two modes: parent (admin) mode and child mode. App development is now suspended.
+Inspired by "SeeMe Stories," I've created a prototype of another storytelling app with interactive stories for kids. The main difference is allowing parents to **record their voice once** and then **clone** it using Eleven Labs for further automatic voiceover generation. The app is connected to a simple backend created using Firebase and Google Cloud Functions. Every shared story content (scenes, graphics, etc.) is packed into an asset bundle and stored on the backend. 
+ 
+ The app has functionalities for **recording template voices, generating stories, and playing stories**. The app flow is split into two modes: parent (admin) mode and child mode. 
+ 
+App development is now suspended.
 
 Screenshots:
 
