@@ -7,31 +7,35 @@ Hi! I'm Mariusz, a Unity developer. I have extensive experience in areas such as
 
 Here are some commercial projects I have worked on, including those that are still live and those that are not available to the public for various reasons.
 
-## "MyBox" (codename) [pre-launch stage]
+## "MyBox" (codename) [pre-launch stage] (2022-currently)
 
 A large-scale **free-to-play match-3** game with complex match-3 mechanics and an additional meta-gameplay layer. The project is still **under development** and has not yet been released to stores. In MyBox, I'm one of two **lead programmers**. I'm like a walking bible of the project: there is no place in the code where I haven't left my mark. I'm responsible for project architecture, gameplay mechanics, UI implementation, the in-game shop, internal game core systems, an internal level editor for creating match-3 levels, localization, backend integration, and more.
 
-## "Kraina Wilka" for Orizon Group
+## "Kraina Wilka" for Orizon Group (2021)
 
 An interactive AR app containing several AR mini-games. This app is used as an interactive guide for tours in the area of Lake Solina in Poland. In this project, I was responsible for the app architecture, AR integration, UI implementation, AR mini-games implementation, and bug fixing.
 
 Store link: [Kraina Wilka on Google Play](https://play.google.com/store/apps/details?id=com.OrizonStudio.KrainaWilka&hl=en_US)
 
-## "Turystyczny Lublin" for Orizon Group
+## "Turystyczny Lublin" for Orizon Group (2021-2022)
 
 An interactive AR app containing several AR realistic models of historic city monuments. This app is used as an interactive guide for tours in the city of Lublin in Poland. In this project, I was responsible for the app architecture, UI implementation, code review, and technical consulting.
 
 Store link: [Turystyczny Lublin on Google Play](https://play.google.com/store/apps/details?id=com.OrizonGroup.TurystycznyLublin&hl=pl&gl=US)
 
-## "Deadliest Catch: The Game" for Moonlit Games
+## "Deadliest Catch: The Game" for Moonlit Games (2019-2020)
 
 A PC game launched on Steam, based on the popular TV show "Deadliest Catch". As a Junior Unity Developer, I worked on this project from mid-2019 until early 2020. I was responsible for bug fixing, UI implementation, and game mechanics implementation.
 
 Steam Link: [Deadliest Catch: The Game on Steam](https://store.steampowered.com/app/838630/Deadliest_Catch_The_Game/)
 
-## "SeeMe Stories" for charactr
+## "SeeMe Stories" for charactr (2020-2021)
 
-A cutting-edge storytelling mobile app with AR elements. This start-up project featured interactive stories for kids, allowing parents to record voiceovers and character mimics using the phone camera and Augmented Reality. Despite its huge potential and advanced development stage, the project was shut down in 2021 due to a change in the company's start-up scope. As a Unity Developer on this project, my responsibilities included co-implementing app flow architecture, UI implementation, story recording functionalities, story playing functionalities, implementing reusable interactive story elements, and bug fixing.
+A cutting-edge storytelling mobile app with AR elements. This start-up project featured interactive stories for kids, allowing parents to record voiceovers and character mimics using the phone camera and Augmented Reality. 
+
+As a Unity Developer on this project, my responsibilities included co-implementing app flow architecture, UI implementation, story recording functionalities, story playing functionalities, implementing reusable interactive story elements, and bug fixing.
+
+Despite its huge potential and advanced development stage, the project was shut down in 2021 due to a change in the company's start-up scope. 
 
 Screenshots:
 
@@ -41,9 +45,13 @@ Screenshots:
 
 <img src="https://github.com/Muciojad/portfolio/blob/main/SeemeStories_3.png" width="365px" height="667px">
 
-## "Miami English" for Educational Entertainment One
+## "Miami English" for Educational Entertainment One (2021-2022)
 
-A start-up project of an educational mobile game focused on learning English. The game featured several language-related educational mini-games, a flashcards mode, and a simple story mode. The project was co-funded by a government program and was suspended. As a Unity Developer on this project, I was responsible for app flow architecture, UI implementation, mini-games and flashcards module implementation, backend integration, and bug fixing.
+A start-up project of an educational mobile game focused on learning English. The game featured several language-related educational mini-games, a flashcards mode, and a simple story mode. 
+
+As a Unity Developer on this project, I was responsible for app flow architecture, UI implementation, mini-games and flashcards module implementation, backend integration, and bug fixing.
+
+The project was co-funded by a government program and was suspended due company financial issues. 
 
 Screenshots:
 
