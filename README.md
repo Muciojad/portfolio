@@ -9,7 +9,7 @@ Here are some commercial projects I have worked on, including those that are sti
 
 ## "MyBox" (codename) [pre-launch stage] (2022-currently)
 
-A large-scale **free-to-play match-3** game with complex match-3 mechanics and an additional meta-gameplay layer. The project is still **under development** and has not yet been released to stores. In MyBox, I'm one of two **lead programmers**. 
+A large-scale **free-to-play match-3** game with complex match-3 mechanics and an additional meta-gameplay layer. The project is still **under development** and has not yet been released to stores. In MyBox, I'm one of two **lead/senior programmers**. 
 
 I'm like a walking bible of the project: there is no place in the code where I haven't left my mark. I'm responsible for project architecture, gameplay mechanics, UI implementation, the in-game shop, internal game core systems, an internal level editor for creating match-3 levels, localization, backend integration, and more.
 
@@ -47,13 +47,19 @@ Screenshots:
 
 <img src="https://github.com/Muciojad/portfolio/blob/main/SeemeStories_3.png" width="365px" height="667px">
 
+Video from R&D phase - mapping facial mimic into 2d and 3D face representation.
+
+[charactr-face-mimic-mapping-on-2d-and-3d-model.webm](https://github.com/Muciojad/portfolio/assets/10184394/2c61f7fc-4278-4b83-88a8-f4a740f1f075)
+
+
+
 ## "Miami English" for Educational Entertainment One (2021-2022)
 
 A start-up project of an educational mobile game focused on learning English. The game featured several language-related educational mini-games, a flashcards mode, and a simple story mode. 
 
 As a Unity Developer on this project, I was responsible for **app flow architecture, UI implementation, mini-games and flashcards module implementation, backend integration**, and bug fixing.
 
-The project was co-funded by a government program and was suspended due company financial issues. 
+The project was co-funded by a government program and was suspended due to company financial issues. 
 # Non-Commercial Experience
 
 Besides commercial projects, I've spent time developing private projects (mostly prototypes and MVPs) to gain more experience in various development areas that Unity offers.
@@ -87,6 +93,11 @@ Screenshots:
 ![alt text](JoyStories_1.png)
 ![alt text](JoyStories_2.png)
 ![alt text](JoyStories_3.png)
+
+## AR Mushroom Picker
+Simple hobby project, the main purpose was to check if AI image recognition (custom trained model) can be successfully used with AR. The idea was to implement geocaching-like app, where user's task is to play as herbalist and pick mushrooms and herbs to complete simple story-based tasks (like healing ill peasants).
+
+Image recognition model was used to determine the environment where player currently is - in order to select proper shrooms/herbs for the environment type. With the environment type known, AR shrooms and herbs was placed on the AR planes (preferably nearby trees/bushes).
 
 ## "Comet Hunter"
 
