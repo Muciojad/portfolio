@@ -64,6 +64,18 @@ The project was co-funded by a government program and was suspended due to compa
 
 Besides commercial projects, I've spent time developing private projects (mostly prototypes and MVPs) to gain more experience in various development areas that Unity offers.
 
+## cargo11b - game on itch.io
+Created as my bachelor final project few years ago, cargo11b is FPS game made in Unity. Action takes place in space, where paid mercenary is sent to spacestation sending SOS signal, to check out what happened and why.
+Game has plenty of mechanics and systems implemented: game objectives with tracking, inventory, shooting, basic AI for enemies, cutscenes and even single bossfight.
+
+Download and play: [itch.io](https://muciojad.itch.io/cargo11b)
+Gameplay video: [YouTube](https://www.youtube.com/watch?v=SPrwK_v-HVA&ab_channel=Muciojad)
+
+## At Noon: Duels - game on itch.io
+Simple asynchronous multiplayer game, made few years ago to learn basics of Firebase SDK in Unity. Gameplay is simple - player takes part in gunslinger's duel, based on simple QTE event and click-to-shoot follow-up. Player performance is stored on Firebase (reaction time, basic data) and is reused later on to feed the game with opponents for next players.
+
+Play: [itch.io](https://muciojad.itch.io/at-noon-duels)
+
 ## "Poseidon Framework" and "Poseidon Inseminator"
 
 A codebase that lets me **start my projects quickly**. The framework is equipped with **fundamental elements like a State Machine implementation, popup system, message dispatcher, scene management system, utilities**, and more. The framework is actively used in both commercial projects I've been part of and my private projects. 
@@ -78,7 +90,7 @@ Poseidon Inseminator: [Repository](https://github.com/Poseidon-tools/Poseidon-In
 
 A hobby project of a top-down shooter, inspired by Hotline Miami and classic top-down shooter games. The project is in the early stages of development with hope for further continuation. I'm developing this project on my own, handling everything from game architecture to UI, game mechanics, and level management.
 
-Video: [YouTube](https://youtu.be/3sWEYHdjPK0)
+Video: [YouTube](https://youtu.be/65N1XTlV8aI)
 
 ## "Joy Stories" storytelling app prototype with AI usage
 
@@ -93,6 +105,8 @@ Screenshots:
 ![alt text](JoyStories_1.png)
 ![alt text](JoyStories_2.png)
 ![alt text](JoyStories_3.png)
+
+Video: [YouTube](https://youtu.be/5MbdpZseXdI)
 
 ## AR Mushroom Picker
 Simple hobby project, the main purpose was to check if AI image recognition (custom trained model) can be successfully used with AR. The idea was to implement geocaching-like app, where user's task is to play as herbalist and pick mushrooms and herbs to complete simple story-based tasks (like healing ill peasants).
